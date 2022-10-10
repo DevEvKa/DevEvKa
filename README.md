@@ -10,7 +10,7 @@
 - 👩‍💻 I'm a Software testing engineer and I'm fond of coding
 - 🌟 I use daily: Javascript, React, HTML, CSS(SCSS)
 - 🌱 I’m currently learning Typescript and JavaScript Unit Testing
-- 👯 I’m looking for a job where I could be useful and get new knowledge
+- 👯 I’m looking for a job as a Frontend developer where I could be useful and get new knowledge
 - ⏳ In my free time, I prefer to go hiking, learn to play guitar or read fiction books
 - 💬 Ask me about everything, I am happy to help 💕
 
